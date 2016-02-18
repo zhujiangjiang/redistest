@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
-void two()
+void master()
 {
-	cout << "two  call" << endl;
+	cout << "master  call" << endl;
 }
 modify hello
 modify hello
