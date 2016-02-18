@@ -4,7 +4,7 @@ void master()
 {
 	cout << "master  call" << endl;
 }
-modify hello
+
 
 
 
